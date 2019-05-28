@@ -1,0 +1,14 @@
+/Users/robertolima/Desktop/dotnet/VUE_PROJECT/ProjectSchool_API/bin/Debug/netcoreapp2.2/ProjectSchool_API.deps.json
+/Users/robertolima/Desktop/dotnet/VUE_PROJECT/ProjectSchool_API/bin/Debug/netcoreapp2.2/ProjectSchool_API.runtimeconfig.json
+/Users/robertolima/Desktop/dotnet/VUE_PROJECT/ProjectSchool_API/bin/Debug/netcoreapp2.2/ProjectSchool_API.runtimeconfig.dev.json
+/Users/robertolima/Desktop/dotnet/VUE_PROJECT/ProjectSchool_API/bin/Debug/netcoreapp2.2/ProjectSchool_API.dll
+/Users/robertolima/Desktop/dotnet/VUE_PROJECT/ProjectSchool_API/bin/Debug/netcoreapp2.2/ProjectSchool_API.pdb
+/Users/robertolima/Desktop/dotnet/VUE_PROJECT/ProjectSchool_API/obj/Debug/netcoreapp2.2/ProjectSchool_API.csprojAssemblyReference.cache
+/Users/robertolima/Desktop/dotnet/VUE_PROJECT/ProjectSchool_API/obj/Debug/netcoreapp2.2/ProjectSchool_API.csproj.CoreCompileInputs.cache
+/Users/robertolima/Desktop/dotnet/VUE_PROJECT/ProjectSchool_API/obj/Debug/netcoreapp2.2/ProjectSchool_API.RazorAssemblyInfo.cache
+/Users/robertolima/Desktop/dotnet/VUE_PROJECT/ProjectSchool_API/obj/Debug/netcoreapp2.2/ProjectSchool_API.RazorAssemblyInfo.cs
+/Users/robertolima/Desktop/dotnet/VUE_PROJECT/ProjectSchool_API/obj/Debug/netcoreapp2.2/ProjectSchool_API.AssemblyInfoInputs.cache
+/Users/robertolima/Desktop/dotnet/VUE_PROJECT/ProjectSchool_API/obj/Debug/netcoreapp2.2/ProjectSchool_API.AssemblyInfo.cs
+/Users/robertolima/Desktop/dotnet/VUE_PROJECT/ProjectSchool_API/obj/Debug/netcoreapp2.2/ProjectSchool_API.RazorTargetAssemblyInfo.cache
+/Users/robertolima/Desktop/dotnet/VUE_PROJECT/ProjectSchool_API/obj/Debug/netcoreapp2.2/ProjectSchool_API.dll
+/Users/robertolima/Desktop/dotnet/VUE_PROJECT/ProjectSchool_API/obj/Debug/netcoreapp2.2/ProjectSchool_API.pdb
