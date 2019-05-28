@@ -10,7 +10,7 @@ $ cd ProjectSchool_API
 
 $ dotnet watch run
 
-A API vai rodar na porta 5000 como abaixo!
+A API vai rodar na porta 5000
 
 http://localhost:5000/api/Aluno
 http://localhost:5000/api/Professor
